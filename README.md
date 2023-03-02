@@ -23,8 +23,8 @@ For this project, I was interestested in using Seattle and Boston Airbnb data to
 
 The data was gathered from the following links:
 
-Seattle Airbnb data: https://www.kaggle.com/datasets/airbnb/seattle
-Boston Airbnb data: https://www.kaggle.com/datasets/airbnb/boston
+1. Seattle Airbnb data: https://www.kaggle.com/datasets/airbnb/seattle
+2. Boston Airbnb data: https://www.kaggle.com/datasets/airbnb/boston
 
 ## File Descriptions <a name="files"></a>
 
