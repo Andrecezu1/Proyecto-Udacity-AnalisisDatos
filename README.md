@@ -28,15 +28,13 @@ The data was gathered from the following links:
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There is one (1) notebook that has the data cience process and the analysis followed to answer the questions above. This file is named "FinalProjectIntroduction.ipynb".
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@andrecezu/airbnb-data-analysis-37cf7c785011).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to AirBnB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle links that appear in the project motivation section.  Otherwise, feel free to use the code here as you would like! 
 
