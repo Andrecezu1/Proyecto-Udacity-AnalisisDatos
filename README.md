@@ -15,11 +15,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Seattle and Boston Airbnb data to answer the following questions:
 
-1. The vibe of each city neighborhood can be described using listing descriptions?
-2. What are the busiest times of the year to visit each city? By how much do prices spike?
-3. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to each city?
-4. Is any difference in the Airbnb ratings among the cities?
-5. What characteristics define a good rate to the host?
+1. What are the busiest times of the year to visit each city?
+2. Which city has the best Airbnb ratings?
+3. What characteristics are related to higher ratings?
+4. Which are the best rated hosts?
 
 The data was gathered from the following links:
 
